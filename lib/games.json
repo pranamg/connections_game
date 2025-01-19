@@ -1,0 +1,30 @@
+{
+  "games": [
+    {
+        "gameId": 1,
+        "groups": [
+            {
+                "title": "Names That Sound Like Two Letters",
+                "items": ["Cece", "Edie", "Emmy", "Katie"],
+                "color": "#9966CC" 
+              },
+              {
+                "title": "Sopranos",
+                "items": ["Carmela", "Junior", "Meadow", "Tony"],
+                "color": "#FFD700" 
+              },
+              {
+                "title": "Familial Nicknames",
+                "items": ["Cuz", "Grammy", "Mummy", "Pop"],
+                "color": "#90EE90" 
+              },
+              {
+                "title": "\"Sesame Street\" Characters",
+                "items": ["Cookie", "Count", "Oscar", "Snuffy"],
+                "color": "#B0C4DE" 
+              }
+          
+        ]
+    }
+]
+}
